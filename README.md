@@ -1,10 +1,10 @@
-### Hi there, I'm Chandan Singh - aka [CloudWingsHost][website] 👋
+### Hi there, I'm Joshua - aka [AxeWolf21][website] 👋
 
 [![Website](https://img.shields.io/static/v1?label=CloudWingsHost&message=UP&color=brightgreen)](https://cloudwingshost.com/)
 
-## I'm a Digital Marketer, Developer, and Learner!!
+## I'm a Android Developer, and Learner!!
 
-- 🔭 I am currently working for [CloudWingsHost][website]!
+
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
